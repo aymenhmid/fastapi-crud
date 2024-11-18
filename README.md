@@ -2,11 +2,12 @@ This repo aims to learn how to develop and test an asynchronous API with FastAPI
 
 #Dependencies:
 
-FastAPI v0.88.0
-Docker v20.10.21
-Python v3.11.0
-pytest v7.2.0
-Databases v0.6.2
+* FastAPI v0.88.0
+* Docker v20.10.21
+* Python v3.11.0
+* pytest v7.2.0
+* Databases v0.6.2
+
 #Objectives
 
 * Develop an asynchronous RESTful API with Python and FastAPI
